@@ -32,8 +32,8 @@ salary_analysis/
 
 1. Клонируй репозиторий:
 \`\`\`bash
-git clone https://github.com/your-username/salary_analysis.git
-cd salary_analysis
+git clone https://github.com/brewerkka/mvp_project.git
+cd mvp_project
 \`\`\`
 
 2. Установи зависимости:
@@ -50,10 +50,7 @@ streamlit run app.py
 
 1. Загрузите проект в публичный GitHub-репозиторий
 2. Перейдите на [Streamlit Cloud](https://streamlit.io/cloud) и создайте новое приложение
-3. Укажите:
-   - Репозиторий: `your-username/salary_analysis`
-   - Файл запуска: `app.py`
-4. Готово! Ссылка на опубликованное приложение будет доступна в интерфейсе Streamlit Cloud.
+3. Готово! Ссылка на опубликованное приложение будет доступна в интерфейсе Streamlit Cloud.
 
 
 ## Используемые библиотеки
