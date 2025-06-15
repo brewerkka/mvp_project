@@ -19,32 +19,32 @@
 
 ## Структура проекта
 
-\`\`\`
+```bash
 salary_analysis/
 ├── app.py                  # Основной файл Streamlit-приложения
 ├── data/
 │   └── zarplaty.csv        # CSV с зарплатами и CPI
 ├── requirements.txt        # Зависимости для запуска и деплоя
 └── README.md               # Описание проекта
-\`\`\`
+```
 
 ## Локальный запуск
 
 1. Клонируй репозиторий:
-\`\`\`bash
+```bash
 git clone https://github.com/brewerkka/mvp_project.git
 cd mvp_project
-\`\`\`
+```
 
 2. Установи зависимости:
-\`\`\`bash
+```bash
 pip install -r requirements.txt
-\`\`\`
+```
 
 3. Запусти приложение:
-\`\`\`bash
+```bash
 streamlit run app.py
-\`\`\`
+```
 
 ## Публикация на Streamlit Cloud
 
